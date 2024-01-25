@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = info@agile-minded.com
+	name = Julia Gonzalez
